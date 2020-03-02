@@ -9,8 +9,11 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ### Competitor analysis [assignment01 & 02]:
-<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
-<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
+imges01 | image 02
+--------|----------
+<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> | <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
+
+Table of competitor websites
 
 ![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
