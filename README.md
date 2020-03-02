@@ -42,9 +42,9 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 Summary statement and link to or an embedded prototype
 https://youtu.be/IboyHfL2jno
 
-<video src="https://youtu.be/IboyHfL2jno">
-
-
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
