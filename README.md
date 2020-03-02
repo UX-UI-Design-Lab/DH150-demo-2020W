@@ -46,6 +46,12 @@ https://youtu.be/IboyHfL2jno
   <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+in HTML
+
+
+[![VideoTest in Markdown]({http://img.youtube.com/vi/IboyHfL2jno/0.jpg})]({https://www.youtube.com/embed/IboyHfL2jno} "Link Title")
+
+
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
