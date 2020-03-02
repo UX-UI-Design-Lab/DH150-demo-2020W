@@ -10,6 +10,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ### Competitor analysis [assignment01 & 02]:
 <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
+<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
 
 ![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
@@ -21,7 +22,7 @@ Summary and link to your assignment folder
 Summary and link to your assignment folder
 
 ### Wireframe and graphic design element variation [assignment07 + part of 08]
-https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp
+![click here to check storyboard](https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp)
 
 ### Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
