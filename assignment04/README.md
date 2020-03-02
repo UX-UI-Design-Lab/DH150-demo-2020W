@@ -13,7 +13,7 @@
 https://youtu.be/IboyHfL2jno
 
 ### observation noates
-<a href="https://youtu.be/IboyHfL2jno" target="_blank">notes</a>
+<a href="https://youtu.be/IboyHfL2jno" target="blank">notes</a>
 
 ### Refelction: Lesson Learned
 
