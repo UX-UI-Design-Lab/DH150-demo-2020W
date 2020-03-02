@@ -3,6 +3,7 @@
 
 
 ### Introduction: a brief information about the project. 
+<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="100px"> 
 What is the project about? The motivation of the project and possible contribution.
 
 ### Clear design statement: 
