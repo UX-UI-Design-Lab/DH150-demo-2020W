@@ -14,6 +14,14 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 Table of competitor websites
 
+<table>
+  <tr>
+    <td> <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> </td>
+     <td> <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> </td>
+  </tr>
+</table>
+  
+
 ![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
