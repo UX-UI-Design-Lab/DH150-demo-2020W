@@ -10,10 +10,6 @@ What is the issue and Why do you think it is important to resolve that issue by 
 
 ### Competitor analysis [assignment01 & 02]:
 
-imges01 | image 02
-
----------------|--------------
-
 <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> | <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
 
 Table of competitor websites
