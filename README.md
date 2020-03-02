@@ -49,7 +49,7 @@ https://youtu.be/IboyHfL2jno
 in HTML
 
 
-[![VideoTest in Markdown]({http://img.youtube.com/vi/IboyHfL2jno/0.jpg})]({https://www.youtube.com/embed/IboyHfL2jno} "Link Title")
+[![Synchopeid Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
 
 
 ### Optional evaluation and revision history 
