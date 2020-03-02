@@ -11,7 +11,9 @@
 
 ### cognitive walk-through & tester's comments
 [test image](link here) short description what you found
+
 [test image](link here) short description what you found
+
 [test image](link here) short description what you found
 
 ### Lessoned learned
