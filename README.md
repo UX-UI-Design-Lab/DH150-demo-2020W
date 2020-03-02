@@ -3,19 +3,17 @@
 
 
 ### Introduction: a brief information about the project. 
-<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
 What is the project about? The motivation of the project and possible contribution.
 
 ### Clear design statement: 
-![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ### Competitor analysis [assignment01 & 02]:
-![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png&s=200)
+<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
+![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 ### User research [contextual inquiry, assignment04]:
-![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png|width=100px)
 Summary and link to your assignment folder
 
 ### UX storytelling [persona+scenario, assignment05]
