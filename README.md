@@ -10,9 +10,9 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ## Competitor analysis [assignment01 & 02]:
 To me, the idea of community is rooted in bringing people together, so both of my websites are related to the public libraries that I would frequent as a child. I chose these websites because libraries offer valuable community resources for free, such as books, internet access, and homework help. 
 
-![Alhambra Civic Center Library Website](https://user-images.githubusercontent.com/52383057/72326705-8ab57a00-3664-11ea-8d13-47fa10ae4836.png)
-
-![Monterey Park Bruggemeyer Library Website](https://user-images.githubusercontent.com/52383057/72327028-25ae5400-3665-11ea-9d98-08e07e860cba.png)
+website01 | website02
+-----------|-------------
+![Alhambra Civic Center Library Website](https://user-images.githubusercontent.com/52383057/72326705-8ab57a00-3664-11ea-8d13-47fa10ae4836.png)|![Monterey Park Bruggemeyer Library Website](https://user-images.githubusercontent.com/52383057/72327028-25ae5400-3665-11ea-9d98-08e07e860cba.png)
 
 
 ## User research [contextual inquiry, assignment04]:
