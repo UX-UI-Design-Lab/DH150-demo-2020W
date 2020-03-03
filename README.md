@@ -69,11 +69,7 @@ This prototype of the book recommendation and listing service bookcore showcases
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch video 
-[![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://youtu.be/JMSPiH-EuG0 "Serene Spakkul")
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/JMSPiH-EuG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+[![The Syncopaded Clock](http://img.youtube.com/vi/JMSPiH-EuG0/0.jpg)](https://youtu.be/JMSPiH-EuG0 "Serene Spakkul")
 
 ### Conclusion: what you learned throughout the process
 While timeframe for projects are finite, ideas for implementations can be infinite. Sometimes it is more important to prioritize the most important features and design those well, rather than designing for every-single-feature and creating a “cool” but unusable app. With deadlines approaching and ideas still flowing, I realized I had to focus on the quality of the most important components of the product before letting myself get carried away with “cool” features I wanted to add. This allowed me to stay focused on creating a solid and quality prototype that could be improved and added onto overtime. [by Serene Spakkul - read more...](http://supakkuldesigns.com/triet.html)
