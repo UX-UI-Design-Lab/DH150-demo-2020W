@@ -1,25 +1,22 @@
-# Project Title
-## your name
-
+# The Glass Bead Game: Undefined
+## DH150 2020W Sookyung Cho
 
 ### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experieince in local communitiies. In various context of aesthetic experience, the community plays a important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to timely and critical especially when the mis-informatioin is widely spread without warninigs. 
 
-### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+### Design statement: 
+Sharinig the aesthetic experience is not only contributing to the cultivation of the common sense as a member of community but also to the moral sense to practice what the inidividual judges as imperative. Providing and returning favors is one of the most fundamental process during which people form and maintain all kinds of relationships with each other. Plus, we all have times at which we really need a helping hand. The favor-exchange app allows for people to find help and help others efficiently within their community, with the potential to gain monetary compensations, and more importantly, the opportunity to get to know and initiate exciting new connections with people in their communities. [read more...](https://wuqirui2016.github.io/dh150/)
 
-### Competitor analysis [assignment01 & 02]:
-
-<img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> | <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> 
-
-Table of competitor websites
+### Competitor analysis:
+I choose to focus on the undergraduate student organizations at the University of California, Los Angeles, particularly by analyzing the official websites designed for two on-campus organizations: Sociology Undergraduate Association and OutWrite Magazine. I aim to recognize, detect and analyze both websites following Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems. [by Naomi D - read more...](https://github.com/naominzd/Heuristic-Evaluation-DH-150/tree/master/assignment1)
 
 <table>
   <tr>
-    <td> <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> </td>
-     <td> <img src="https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/color-contrast.png" height="300px"> </td>
+    <td> <img src="https://user-images.githubusercontent.com/59623164/72333123-27c9e000-3670-11ea-9109-1c60d09c0a48.png" height="300px"> </td>
+     <td> <img src="https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png" height="300px"> </td>
   </tr>
 </table>
+  
   
 
 ![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
