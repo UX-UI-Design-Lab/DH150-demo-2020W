@@ -46,20 +46,22 @@ Use Case: Magdalena opens her travel app and searches for bundle packages to Cab
 </tr>
 </table>
 
-### Wireframe and graphic design element variation [assignment07 + part of 08]
+### Wireframe and graphic design element variations
+![Wireframes](https://static.wixstatic.com/media/03a814_44c654d808cc4012bcc12fde641bf6f2~mv2.png/v1/fill/w_1236,h_900,al_c,q_90,usm_0.66_1.00_0.01/Screen%20Shot%202019-06-05%20at%2010_30_31%20PM_pn.webp)
+
+These initial sketches show the process of signing up with the app and discovering the clubs the student’s campus has to offer. If the students have an account, upon signing in the students will be directed to their home page. In their profile section, they can see and edit their profile (how clubs and others in the system see them). The profile shows their name, year, major, and photo. They have the option to include a short bio about themselves. The section lists out all the clubs and communities that the individual is involved in or a member in, and displays the user’s status (e.g. a director or a member) in the said organizations. Essentially, this is a snapshot of the user’s involvement on campus. [by Samantha Chandra -- read more...](https://samanthachandra1.wixsite.com/campusclub)
+
+![Graphic Designs](https://static.wixstatic.com/media/0438be_83bd08a0c5dd425bafcfb15eab3942c8~mv2_d_11000_8500_s_4_2.jpg/v1/fill/w_1966,h_1518,al_c,q_90,usm_0.66_1.00_0.01/87878.webp)
+
 ![click here to check storyboard](https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp)
 
-### Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+### Low-fidelity prototype (wireflow and testing)
+![low-fidelity prototype](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
+The purpose of this low fidelity prototype is to document the flow of these three features previously described. These wireframes show the potential screens that these features would have, and the wireflows document how the user would navigate through these screens. Low fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave. [by Sofia Tam -- read more...](https://github.com/sofiatam/Assignment06-DH150)
 
-
-### High-fidelity prototype (functional/interactive prototype, assignment08)
+### High-fidelity prototype (functional/interactive prototype)
 Summary statement and link to or an embedded prototype
 https://youtu.be/IboyHfL2jno
-
-
-
-
 
 [![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
 
