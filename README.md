@@ -52,7 +52,6 @@ Use Case: Magdalena opens her travel app and searches for bundle packages to Cab
 
 These initial sketches show the process of signing up with the app and discovering the clubs the student’s campus has to offer. If the students have an account, upon signing in the students will be directed to their home page. In their profile section, they can see and edit their profile (how clubs and others in the system see them). The profile shows their name, year, major, and photo. They have the option to include a short bio about themselves. The section lists out all the clubs and communities that the individual is involved in or a member in, and displays the user’s status (e.g. a director or a member) in the said organizations. Essentially, this is a snapshot of the user’s involvement on campus. [by Samantha Chandra -- read more...](https://samanthachandra1.wixsite.com/campusclub)
 
-![Graphic Designs](https://static.wixstatic.com/media/0438be_83bd08a0c5dd425bafcfb15eab3942c8~mv2_d_11000_8500_s_4_2.jpg/v1/fill/w_1966,h_1518,al_c,q_90,usm_0.66_1.00_0.01/87878.webp)
 ### Low-fidelity prototype (wireflow and testing)
 ![low-fidelity prototype](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
 
