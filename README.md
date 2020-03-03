@@ -31,7 +31,7 @@ With regards to the UCLA Bruins mobile app, I learned that it has major design f
 This project will support users activity and need for safety to provide improve user experience in parking in a proper location and seeking safety information. Current solutions to satisfy this need for knowing where to park include other applications but from personal observation, do not seem to be very commonly used among my target demographic. Certain limitations for traveling and parking include not knowing availability ahead of time and as a result, spending a lot of time looking for parking or not heading out to a destination at all. Added functionality to the ParkMobile app could definitely help users discover places that they feel comfortable visiting due to positive parking situations and ensure that they become repeat visitors. I employed participatory observation and ethnographic research by observing how people in UCLA Parking Structure 2 seem to be paying for parking. [by Tasia Mochernek -- read more...](https://github.com/tasiamochernak/DH150W2020/blob/master/assignment4/README.md)
 
 ### UX storytelling [persona+scenario]
-https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png
+![Persona: M](https://user-images.githubusercontent.com/59623155/74207005-9760ca00-4c32-11ea-9485-5d07234f0151.png)
 
 M's Price Tool - suggests what details of your trip to change (such as travel dates, location, airport) in order to fit a designated budget and price range
 
@@ -42,7 +42,7 @@ Magdalena, an undergraduate college student, is excited to go on a trip with her
 
 Use Case: Magdalena opens her travel app and searches for bundle packages to Cabo for five people between the dates of 3/21 to 3/29. She sorts her search results by price. When she cannot find deals between her price range, she becomes frustrated and edits her search. She changes the travel dates and starts a new search from 3/22 to 3/28 to see if the prices are cheaper. After finding a deal within her price range, she checks out the hotel and selects her inbound and outbound flights. Before proceeding to the checkout page, she takes a screenshot of package summary and sends it to the groupchat.
    </td>
-  <td> https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png </td>
+  <td> ![journey map](https://user-images.githubusercontent.com/59623155/74217609-cbe97b80-4c5c-11ea-8f33-7336a2b92f5d.png) </td>
 </tr>
 </table>
 
