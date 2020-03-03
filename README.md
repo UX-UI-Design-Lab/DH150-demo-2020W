@@ -59,11 +59,11 @@ The purpose of this low fidelity prototype is to document the flow of these thre
 
 ### High-fidelity prototype (functional/interactive prototype)
 
-![click here to check storyboard](https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp)
+![click here to check the storyboard](https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp)
 
 This prototype of the book recommendation and listing service bookcore showcases the keyword and category search features, similar search feature, and book listing feature of the website with high fidelity to the intended product. Building this prototype, I aim to get a better sense of where users have difficulty and find best usability using bookcore to make design and usability improvements, useful features, best flow, and most intuitive design. I built this prototype using Figma, designing all screens and components myself from scratch based off of my low fidelity wireframes and wireflow with improvements made based on peer feedback. [by Ellen Mei, read more...](https://github.com/lnmei/DH150-2020W/blob/master/assignment08/README.md)
 
-<figure class="video_container">
+<figure>
   <iframe src="https://www.figma.com/proto/SSAHuLPvOE0DVNXL1D5zS2/bookcore?node-id=9%3A134&scaling=scale-down" width="640" height="480"></iframe>
 </figure>
 
