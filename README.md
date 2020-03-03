@@ -53,10 +53,11 @@ These initial sketches show the process of signing up with the app and discoveri
 
 ![Graphic Designs](https://static.wixstatic.com/media/0438be_83bd08a0c5dd425bafcfb15eab3942c8~mv2_d_11000_8500_s_4_2.jpg/v1/fill/w_1966,h_1518,al_c,q_90,usm_0.66_1.00_0.01/87878.webp)
 
+### Low-fidelity prototype (wireflow and testing)
 ![click here to check storyboard](https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp)
 
-### Low-fidelity prototype (wireflow and testing)
 ![low-fidelity prototype](https://user-images.githubusercontent.com/25126263/74574401-7650ef80-4f38-11ea-9049-ce5fa3e66a63.jpg)
+
 The purpose of this low fidelity prototype is to document the flow of these three features previously described. These wireframes show the potential screens that these features would have, and the wireflows document how the user would navigate through these screens. Low fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave. [by Sofia Tam -- read more...](https://github.com/sofiatam/Assignment06-DH150)
 
 ### High-fidelity prototype (functional/interactive prototype)
@@ -74,5 +75,4 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 [![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
 
 ### Conclusion: what you learned throughout the process
-
-
+It was grateful to have a chance to work with you. I learned a lot about your potentials - hope anything you learned in this course is helpful for your future career.
