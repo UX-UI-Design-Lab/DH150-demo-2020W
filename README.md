@@ -14,6 +14,10 @@ website01 | website02
 -----------|-------------
 ![Alhambra Civic Center Library Website](https://user-images.githubusercontent.com/52383057/72326705-8ab57a00-3664-11ea-8d13-47fa10ae4836.png)|![Monterey Park Bruggemeyer Library Website](https://user-images.githubusercontent.com/52383057/72327028-25ae5400-3665-11ea-9d98-08e07e860cba.png)
 
+Usability testing video
+
+[![Usabiltiy Testing](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "piolot UT")
+
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
