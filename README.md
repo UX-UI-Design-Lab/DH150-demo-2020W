@@ -59,19 +59,21 @@ The purpose of this low fidelity prototype is to document the flow of these thre
 
 ### High-fidelity prototype (functional/interactive prototype)
 
-![click here to check the storyboard](https://static.wixstatic.com/media/3e25e1_5ad745a2bc8b4f46b9471516b2a74e37~mv2_d_1880_1254_s_2.png/v1/fill/w_1880,h_1100,al_c,q_95/Screen%20Shot%202019-06-02%20at%203_55_37%20PM.webp)
+![click here to check the storyboard](https://github.com/lnmei/DH150-2020W/raw/master/assignment08/wireflow1.png)
 
 This prototype of the book recommendation and listing service bookcore showcases the keyword and category search features, similar search feature, and book listing feature of the website with high fidelity to the intended product. Building this prototype, I aim to get a better sense of where users have difficulty and find best usability using bookcore to make design and usability improvements, useful features, best flow, and most intuitive design. I built this prototype using Figma, designing all screens and components myself from scratch based off of my low fidelity wireframes and wireflow with improvements made based on peer feedback. [by Ellen Mei, read more...](https://github.com/lnmei/DH150-2020W/blob/master/assignment08/README.md)
 
-<figure>
-  <iframe src="https://www.figma.com/proto/SSAHuLPvOE0DVNXL1D5zS2/bookcore?node-id=9%3A134&scaling=scale-down" width="640" height="480"></iframe>
-</figure>
+[Experience the prototype here](https://www.figma.com/proto/SSAHuLPvOE0DVNXL1D5zS2/bookcore?node-id=9%3A134&scaling=scale-down)
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ### Pitch video 
-[![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
+[![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://youtu.be/JMSPiH-EuG0 "Serene Spakkul")
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/JMSPiH-EuG0" width="100vw"></iframe>
+</figure>
 
 ### Conclusion: what you learned throughout the process
-It was grateful to have a chance to work with you. I learned a lot about your potentials - hope anything you learned in this course is helpful for your future career.
+While timeframe for projects are finite, ideas for implementations can be infinite. Sometimes it is more important to prioritize the most important features and design those well, rather than designing for every-single-feature and creating a “cool” but unusable app. With deadlines approaching and ideas still flowing, I realized I had to focus on the quality of the most important components of the product before letting myself get carried away with “cool” features I wanted to add. This allowed me to stay focused on creating a solid and quality prototype that could be improved and added onto overtime. [by Serene Spakkul - read more...](http://supakkuldesigns.com/triet.html)
