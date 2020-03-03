@@ -60,17 +60,19 @@ These initial sketches show the process of signing up with the app and discoveri
 The purpose of this low fidelity prototype is to document the flow of these three features previously described. These wireframes show the potential screens that these features would have, and the wireflows document how the user would navigate through these screens. Low fidelity prototypes are useful to see how the user thinks when presented with a potential solution, and allows people like me to observe how the user thinks and logically map out how the new features will behave. [by Sofia Tam -- read more...](https://github.com/sofiatam/Assignment06-DH150)
 
 ### High-fidelity prototype (functional/interactive prototype)
-Summary statement and link to or an embedded prototype
-https://youtu.be/IboyHfL2jno
 
-[![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
+This prototype of the book recommendation and listing service bookcore showcases the keyword and category search features, similar search feature, and book listing feature of the website with high fidelity to the intended product. Building this prototype, I aim to get a better sense of where users have difficulty and find best usability using bookcore to make design and usability improvements, useful features, best flow, and most intuitive design. I built this prototype using Figma, designing all screens and components myself from scratch based off of my low fidelity wireframes and wireflow with improvements made based on peer feedback. [by Ellen Mei, read more...](https://github.com/lnmei/DH150-2020W/blob/master/assignment08/README.md)
 
+<figure class="video_container">
+  <iframe src="https://www.figma.com/proto/SSAHuLPvOE0DVNXL1D5zS2/bookcore?node-id=9%3A134&scaling=scale-down" width="640" height="480"></iframe>
+</figure>
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-### Pitch video [update the video after recording your presentation]
+### Pitch video 
+[![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
 
-### conclusion: what you learned throughout the process
+### Conclusion: what you learned throughout the process
 
 
