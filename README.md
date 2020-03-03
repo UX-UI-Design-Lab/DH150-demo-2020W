@@ -72,7 +72,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 [![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://youtu.be/JMSPiH-EuG0 "Serene Spakkul")
 
 <figure class="video_container">
-  <iframe src="https://youtu.be/JMSPiH-EuG0" width="100%"></iframe>
+  <iframe src="https://youtu.be/JMSPiH-EuG0" width="640" height="480"></iframe>
 </figure>
 
 ### Conclusion: what you learned throughout the process
