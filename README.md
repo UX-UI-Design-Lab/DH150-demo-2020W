@@ -23,7 +23,7 @@ I conducted a usability test to understand the extent to which the app's design 
 With regards to the UCLA Bruins mobile app, I learned that it has major design flaws that make its use cumbersome and frustrating for the user. My participant was able to complete each task, but she expressed difficulty in doing so both through her verbal indications during the test and in the post-test questionnaire, where she describes the app as cheap, intimidating, and unprofessional. She noted that the lack of internal consistency and cluttered interfaces of the app made it hard to navigate and perform basic functions of the app. [by Josh Mimura -- read more...](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment02)
   
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/preview" width="640" height="480"></iframe>
+  <iframe src="https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/preview" width="100%" height="100%"></iframe>
 </figure>
 
 
