@@ -5,9 +5,9 @@
 In this project, I will propose a novel ux design of the mobile app to enhance the aesthetic experieince in local communitiies. In various context of aesthetic experience, the community plays a important role to share and culture the aesthetic taste of individuals. To offer the accessible and satisfactory user experience of aesthetics of everyday objects would be beneficial to timely and critical especially when the mis-informatioin is widely spread without warninigs. 
 
 ### Design statement: 
-Sharinig the aesthetic experience is not only contributing to the cultivation of the common sense as a member of community but also to the moral sense to practice what the inidividual judges as imperative. Providing and returning favors is one of the most fundamental process during which people form and maintain all kinds of relationships with each other. Plus, we all have times at which we really need a helping hand. The favor-exchange app allows for people to find help and help others efficiently within their community, with the potential to gain monetary compensations, and more importantly, the opportunity to get to know and initiate exciting new connections with people in their communities. [read more...](https://wuqirui2016.github.io/dh150/)
+Sharinig the aesthetic experience is not only contributing to the cultivation of the common sense as a member of community but also to the moral sense to practice what the inidividual judges as imperative. Providing and returning favors is one of the most fundamental process during which people form and maintain all kinds of relationships with each other. Plus, we all have times at which we really need a helping hand. The favor-exchange app allows for people to find help and help others efficiently within their community, with the potential to gain monetary compensations, and more importantly, the opportunity to get to know and initiate exciting new connections with people in their communities. [by Qirui Wu -- read more...](https://wuqirui2016.github.io/dh150/)
 
-### Competitor analysis:
+### Competitor analysis: Heuristic Evaluation
 I choose to focus on the undergraduate student organizations at the University of California, Los Angeles, particularly by analyzing the official websites designed for two on-campus organizations: Sociology Undergraduate Association and OutWrite Magazine. I aim to recognize, detect and analyze both websites following Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems. [by Naomi D - read more...](https://github.com/naominzd/Heuristic-Evaluation-DH-150/tree/master/assignment1)
 
 <table>
@@ -16,11 +16,16 @@ I choose to focus on the undergraduate student organizations at the University o
      <td> <img src="https://user-images.githubusercontent.com/59623164/72333771-382e8a80-3671-11ea-98cc-73a1affb15c5.png" height="300px"> </td>
   </tr>
 </table>
-  
-  
 
-![audit_image](https://ux-ui-design-lab.github.io/DH150-demo-2020W/assignment07/Audit_color_sookie.png)
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+### Competitor analysis: Usability testing
+I conducted a usability test to understand the extent to which the app's design facilitates or hinders a user's ability to complete routine tasks. The test will try to capture the effectiveness, efficiency, and satisfaction of the UCLA Bruins mobile app. Task 1 will ask the user to check past basketball game scores and future event dates;Task 2 will test the user's ability to efficiently purchase tickets for an upcoming sports event; Task 3 asks the user to personalize his/her experience on the app by subscribing to a particular sport and modifying its notification settings. 
+
+With regards to the UCLA Bruins mobile app, I learned that it has major design flaws that make its use cumbersome and frustrating for the user. My participant was able to complete each task, but she expressed difficulty in doing so both through her verbal indications during the test and in the post-test questionnaire, where she describes the app as cheap, intimidating, and unprofessional. She noted that the lack of internal consistency and cluttered interfaces of the app made it hard to navigate and perform basic functions of the app. [by Josh Mimura -- read more...](https://github.com/joshmimura/DH-150-Assignments/tree/master/assignment02)
+  
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1yiEDN1tqZ3sDmb-SoFgJF1S73n4gDxAl/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
@@ -39,11 +44,8 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 Summary statement and link to or an embedded prototype
 https://youtu.be/IboyHfL2jno
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-in HTML
+
 
 
 [![The Syncopaded Clock](http://img.youtube.com/vi/IboyHfL2jno/0.jpg)](https://www.youtube.com/watch?v=IboyHfL2jno "L. Anderson")
