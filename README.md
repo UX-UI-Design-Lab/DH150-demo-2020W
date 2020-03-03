@@ -8,8 +8,7 @@ This project inivolves the mobile app user user experience design for the commun
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ## Competitor analysis [assignment01 & 02]:
-To me, the idea of community is rooted in bringing people together, so both of my websites are related to the public libraries that I would frequent as a child. I chose these websites because libraries offer valuable community resources for free, such as books, internet access, and homework help. 
-https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment1.md
+To me, the idea of community is rooted in bringing people together, so both of my websites are related to the public libraries that I would frequent as a child. I chose these websites because libraries offer valuable community resources for free, such as books, internet access, and homework help. [read more...](https://github.com/vickijtruong/DH150-2020W/blob/master/Assignments/Assignment1.md)
 
 website01 | website02
 -----------|-------------
