@@ -27,8 +27,8 @@ With regards to the UCLA Bruins mobile app, I learned that it has major design f
 </figure>
 
 
-### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+### User research [contextual inquiry]:
+This project will support users activity and need for safety to provide improve user experience in parking in a proper location and seeking safety information. Current solutions to satisfy this need for knowing where to park include other applications but from personal observation, do not seem to be very commonly used among my target demographic. Certain limitations for traveling and parking include not knowing availability ahead of time and as a result, spending a lot of time looking for parking or not heading out to a destination at all. Added functionality to the ParkMobile app could definitely help users discover places that they feel comfortable visiting due to positive parking situations and ensure that they become repeat visitors. I employed participatory observation and ethnographic research by observing how people in UCLA Parking Structure 2 seem to be paying for parking. [by Tasia Mochernek -- read more...](https://github.com/tasiamochernak/DH150W2020/blob/master/assignment4/README.md)
 
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
